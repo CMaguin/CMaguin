@@ -1,7 +1,9 @@
-👋 Hi, I’m Cécile Maguin, a PhD student at the Neurodegenerative Diseases Lab in the Molecular Imaging Research Center near Paris, France.
-I’m interested in MRI and brain imaging. I'm currently working on CEST imaging and modeling.
+👋 Hi, I’m Cécile, PhD in physics.
+During my thesis, I worked on MRI in brain imaging and on the novel CEST technique and modeling. You can find some of my codes from back then on the "CEST_modeling_toolbox" repository.
 
-📫 Please contact me at cecile.maguin@cea.fr
+Right now as a hobby I'm working on simple algorithm for air pollution modeling (in private repo for now). I'll make them public one I'm satisfied enough with it! :)
+
+
 
 <!---
 CMaguin/CMaguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
